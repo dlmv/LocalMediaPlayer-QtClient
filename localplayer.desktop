@@ -1,8 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=Local Player
-Version=1.0
-Encoding=UTF-8
-Terminal=false
-Exec=python /home/dlmv/Documents/player/player.py %U
-Icon=/home/dlmv/Documents/player/icon.png
