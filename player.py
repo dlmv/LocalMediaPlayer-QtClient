@@ -461,7 +461,6 @@ class Main(QtGui.QWidget):
 		settings = QtCore.QSettings(Keys.organization, Keys.app)
 		uri = str(settings.value("lasturi", None).toString())
 		if uri:
-			self.setEnabled(False)
 			url = QtCore.QUrl(uri + ServerPath.STATUS)
 			request = QtNetwork.QNetworkRequest(url)
 			reply = QtGui.QApplication.instance().NAM.get(request)
@@ -469,7 +468,6 @@ class Main(QtGui.QWidget):
 		
 
 	def onStartReply(self, uri):
-		self.setEnabled(True)
 		reply = QtCore.QObject.sender(self)
 		reply.deleteLater()
 		if reply.error() == QtNetwork.QNetworkReply.NoError:
