@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+	<qresource>
+		<file>images/browse.png</file>
+		<file>images/connect.png</file>
+		<file>images/connected.png</file>
+		<file>images/cycle.png</file>
+		<file>images/linear.png</file>
+		<file>images/menu_settings.png</file>
+		<file>images/menu_volume.png</file>
+		<file>images/next.png</file>
+		<file>images/open.png</file>
+		<file>images/pause_after.png</file>
+		<file>images/pause_pause_after.png</file>
+		<file>images/pause.png</file>
+		<file>images/pause_stop_after.png</file>
+		<file>images/pause_white.png</file>
+		<file>images/play_pause_after.png</file>
+		<file>images/play.png</file>
+		<file>images/play_stop_after.png</file>
+		<file>images/play_transparent.png</file>
+		<file>images/play_white.png</file>
+		<file>images/prev.png</file>
+		<file>images/reload.png</file>
+		<file>images/rewriting.png</file>
+		<file>images/stop_after.png</file>
+		<file>images/stop.png</file>
+		<file>images/stop_background.png</file>
+		<file>images/volume.png</file>
+	</qresource>
+</RCC>

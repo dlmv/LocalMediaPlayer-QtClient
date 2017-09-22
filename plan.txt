@@ -1,0 +1,16 @@
++ General view
++ Connect and save servers
++ Load playlist
++ Playlist control
++ Volume dialog
++ Range remove
++ Path rewriting
++ Smb passwords
++ Call arg
++ Drag & drop
++ Open containing folder
++ Open dialog
+
+- Windows path rewriting
+- View tweaks
+- Translation
